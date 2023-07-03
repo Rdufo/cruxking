@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cruxking/static/css/main.4d6f8036.css",
+    "main.js": "/cruxking/static/js/main.c6e7bdb0.js",
+    "static/media/ProfilePlaceholder.png": "/cruxking/static/media/ProfilePlaceholder.7a6a6c54279a54d1977c.png",
+    "static/media/climbGraph.png": "/cruxking/static/media/climbGraph.4b8f8c6e4655e5dddba7.png",
+    "index.html": "/cruxking/index.html",
+    "main.4d6f8036.css.map": "/cruxking/static/css/main.4d6f8036.css.map",
+    "main.c6e7bdb0.js.map": "/cruxking/static/js/main.c6e7bdb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6f8036.css",
+    "static/js/main.c6e7bdb0.js"
+  ]
+}
